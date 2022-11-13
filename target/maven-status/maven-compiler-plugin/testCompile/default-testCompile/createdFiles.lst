@@ -1,0 +1,6 @@
+apinovember/conctance/ProjectConstants.class
+apinovember/domain/Board.class
+apinovember/testRunner/TestRunner.class
+apinovember/helpers/TestCaseContext.class
+apinovember/client/TrelloClient.class
+apinovember/stepdefinitions/TrelloSteps.class
